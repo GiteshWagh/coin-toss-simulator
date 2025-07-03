@@ -12,19 +12,10 @@ It randomly prints **Heads** or **Tails** in the terminal.
 
 ---
 
-## 📦 How to Run
-
-1. Make sure Python is installed (Python 3.x)
-2. Open terminal or command prompt
-3. Run this command:
-
-```bash
-python coin-toss-simulator.py
-```
-
 ## 💡 Example Output
 ```
 Tossing the coin...
 
 Result: Heads
 ```
+---
