@@ -19,7 +19,7 @@ It randomly prints **Heads** or **Tails** in the terminal.
 3. Run this command:
 
 ```bash
-python coin_toss.py
+python coin-toss-simulator.py
 ```
 
 ## 💡 Example Output
